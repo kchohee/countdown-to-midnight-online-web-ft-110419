@@ -3,6 +3,7 @@ while number > 0 do
   puts "#{number} SECOND(S)!"
   number -= 1
   end
+<<<<<<< HEAD
   return "HAPPY NEW YEAR!"
 end
 
@@ -13,4 +14,6 @@ while number > 0 do
   sleep(1.0)
   end
   return "HAPPY NEW YEAR!"
+=======
+>>>>>>> ee56ee11f0d3292f00f63e1462ecfb73d89b3f51
 end
